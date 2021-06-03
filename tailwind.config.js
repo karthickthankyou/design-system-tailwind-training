@@ -17,6 +17,17 @@ module.exports = {
       2.5: '2.5rem',
       3: '3rem',
     },
+    fontWeight: {
+      //   'extra-light': 100,
+      thin: 200,
+      //   light: 300,
+      normal: 400,
+      //   medium: 500,
+      semibold: 600,
+      //   bold: 700,
+      'extra-bold': 800,
+      //   black: 900,
+    },
     extend: {},
   },
   variants: {
